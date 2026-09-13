@@ -1,0 +1,190 @@
+[
+  {
+    "id": "fldbiFNMayskSK10c8P",
+    "dbFieldName": "Name",
+    "name": "Name",
+    "type": "singleLineText",
+    "options": {},
+    "unique": false,
+    "isPrimary": true,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fldP58mKYlGolDSFj7m",
+    "dbFieldName": "Fibery_Id",
+    "name": "Fibery Id",
+    "type": "singleLineText",
+    "options": {},
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fld1ubC7Evzq7MsqLFo",
+    "dbFieldName": "Public_Id",
+    "name": "Public Id",
+    "type": "number",
+    "options": {
+      "formatting": {
+        "type": "decimal",
+        "precision": 2
+      }
+    },
+    "unique": false,
+    "cellValueType": "number",
+    "dbFieldType": "REAL"
+  },
+  {
+    "id": "fldGP0gWmxw3EIh0GmE",
+    "dbFieldName": "Status",
+    "name": "Status",
+    "type": "singleSelect",
+    "options": {
+      "choices": [
+        {
+          "id": "choqiznLUfb",
+          "name": "Working",
+          "color": "blueLight2"
+        },
+        {
+          "id": "chobH4wucfm",
+          "name": "Completed",
+          "color": "blueLight1"
+        }
+      ]
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fldl0PNMqbIFF7AKXmG",
+    "dbFieldName": "Time_Start",
+    "name": "Time Start",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldYUZNjIYwyBnGyWa2",
+    "dbFieldName": "Time_End",
+    "name": "Time End",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fld753qfL62m51NUHcD",
+    "dbFieldName": "Duration_hrs",
+    "name": "Duration (hrs)",
+    "type": "number",
+    "options": {
+      "formatting": {
+        "type": "decimal",
+        "precision": 2
+      }
+    },
+    "unique": false,
+    "cellValueType": "number",
+    "dbFieldType": "REAL"
+  },
+  {
+    "id": "fldYdlsrkRfS0F229Qt",
+    "dbFieldName": "Duration_mins",
+    "name": "Duration (mins)",
+    "type": "number",
+    "options": {
+      "formatting": {
+        "type": "decimal",
+        "precision": 2
+      }
+    },
+    "unique": false,
+    "cellValueType": "number",
+    "dbFieldType": "REAL"
+  },
+  {
+    "id": "fldKvxaCzMEk1pcQwwZ",
+    "dbFieldName": "Recorded",
+    "name": "Recorded",
+    "type": "checkbox",
+    "options": {},
+    "unique": false,
+    "cellValueType": "boolean",
+    "dbFieldType": "BOOLEAN"
+  },
+  {
+    "id": "fldYtA4vcpolbu8pkZk",
+    "dbFieldName": "Task",
+    "name": "Task",
+    "type": "link",
+    "options": {
+      "relationship": "manyOne",
+      "foreignTableId": "tblfTkOieln1CwH5Lkr",
+      "lookupFieldId": "fldIHbBgoni1BtLiDCJ",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tbl4jQiRVMtGxUMPjWB",
+      "selfKeyName": "__id",
+      "foreignKeyName": "__fk_fldYtA4vcpolbu8pkZk",
+      "symmetricFieldId": "fldXS32VV3rvZpgv2T7"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldH85AzxSBoU441JS3",
+    "dbFieldName": "Project",
+    "name": "Project",
+    "type": "link",
+    "options": {
+      "relationship": "manyOne",
+      "foreignTableId": "tbl25pOTU2aZ3Ff3OOB",
+      "lookupFieldId": "fldj6QdNlI4qbr0urNu",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tbl4jQiRVMtGxUMPjWB",
+      "selfKeyName": "__id",
+      "foreignKeyName": "__fk_fldH85AzxSBoU441JS3",
+      "symmetricFieldId": "fldzZ1ryh5U8QH77L0b"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fld7TXaPiBXxobjsSdA",
+    "dbFieldName": "Area",
+    "name": "Area",
+    "type": "link",
+    "options": {
+      "relationship": "manyOne",
+      "foreignTableId": "tblQpxdiFGpjNTDVCHB",
+      "lookupFieldId": "fld6Ylzi7lBfLGy0V0v",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tbl4jQiRVMtGxUMPjWB",
+      "selfKeyName": "__id",
+      "foreignKeyName": "__fk_fld7TXaPiBXxobjsSdA",
+      "symmetricFieldId": "fldRaKlgo0cpZXCTbOU"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "JSON"
+  }
+]

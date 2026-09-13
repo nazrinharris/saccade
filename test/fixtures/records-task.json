@@ -1,0 +1,1553 @@
+{
+  "records": [
+    {
+      "id": "recaF6x4UbNNuNXmxij",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 001",
+        "Fibery Id": "Sample task 002",
+        "Public Id": 0.5,
+        "State": "Done",
+        "Due Date": "2026-01-10T00:30:00.000Z",
+        "Completed Date": "2026-01-10T00:30:00.000Z",
+        "Actual Dates Start": "2026-01-10T00:30:00.000Z",
+        "Actual Dates End": "2026-01-10T00:30:00.000Z",
+        "Planned Effort": 0.5,
+        "Actual Effort": 0.5,
+        "Project": {
+          "id": "reccOKrVf8sdxP6n6ki",
+          "title": "Sample task 003"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 004"
+        },
+        "PT · Time Record": [
+          {
+            "id": "rech6cVGDPNkcHlIZOz",
+            "title": "Sample task 005"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recZB0U15IM4DXovuHU",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 006",
+        "Fibery Id": "Sample task 007",
+        "Public Id": 1.5,
+        "State": "Done",
+        "Completed Date": "2026-02-11T01:30:00.000Z",
+        "Actual Dates Start": "2026-02-11T01:30:00.000Z",
+        "Actual Dates End": "2026-02-11T01:30:00.000Z",
+        "Planned Effort": 1.5,
+        "Actual Effort": 1.5,
+        "Description": "Sample description for record 1. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "recC4xuFT0hu8CRgc6g",
+          "title": "Sample task 008"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 009"
+        },
+        "Parent Task": {
+          "id": "recLVEYRzzWy8KoHkOv",
+          "title": "Sample task 010"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recfWhwoLzBPjub3NK8",
+            "title": "Sample task 011"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recsZtZE8UxEeE0QXv0",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 012",
+        "Fibery Id": "Sample task 013",
+        "Public Id": 2.5,
+        "State": "Done",
+        "Completed Date": "2026-03-12T02:30:00.000Z",
+        "Actual Dates Start": "2026-03-12T02:30:00.000Z",
+        "Actual Dates End": "2026-03-12T02:30:00.000Z",
+        "Actual Effort": 2.5,
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 014"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 015"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recjZxwp0gJMjw1l0U4",
+            "title": "Sample task 016"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recCiJsc5Bwc6pcMs57",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 017",
+        "Fibery Id": "Sample task 018",
+        "Public Id": 3.5,
+        "State": "Indefinite",
+        "Actual Effort": 3.5,
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 019"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 020"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recQlempHFgDtQqOQJK",
+            "title": "Sample task 021"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rec1skIoAYaiCtdDFZj",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 022",
+        "Fibery Id": "Sample task 023",
+        "Public Id": 4.5,
+        "State": "Done",
+        "Due Date": "2026-05-14T04:30:00.000Z",
+        "Completed Date": "2026-05-14T04:30:00.000Z",
+        "Planned Dates Start": "2026-05-14T04:30:00.000Z",
+        "Planned Dates End": "2026-05-14T04:30:00.000Z",
+        "Actual Dates Start": "2026-05-14T04:30:00.000Z",
+        "Actual Dates End": "2026-05-14T04:30:00.000Z",
+        "Planned Effort": 4.5,
+        "Actual Effort": 4.5,
+        "Project": {
+          "id": "recM2brxKKOFWJh5sy3",
+          "title": "Sample task 024"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 025"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recbPBSA0lDGYjgvsda",
+            "title": "Sample task 026"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reclDFNC7g8Wk0nFyRr",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T12:02:31.507Z",
+      "fields": {
+        "Name": "Sample task 027",
+        "Fibery Id": "Sample task 028",
+        "Public Id": 5.5,
+        "State": "Cancelled",
+        "Due Date": "2026-06-15T05:30:00.000Z",
+        "Completed Date": "2026-06-15T05:30:00.000Z",
+        "Actual Dates Start": "2026-06-15T05:30:00.000Z",
+        "Actual Dates End": "2026-06-15T05:30:00.000Z",
+        "Planned Effort": 5.5,
+        "Actual Effort": 5.5,
+        "Description": "Sample description for record 5. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "rec1TQowv5vdJSXMFUI",
+          "title": "Sample task 029"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 030"
+        },
+        "PT · Task": [
+          {
+            "id": "rec2ekEKifV9O5Nkohq",
+            "title": "Sample task 031"
+          },
+          {
+            "id": "recicrJB6gdpJtfGoDB",
+            "title": "Sample task 032"
+          },
+          {
+            "id": "recQSihVeyxYWH403TF",
+            "title": "Sample task 033"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recCLKlgzzMTjoN0O2Q",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 034",
+        "Fibery Id": "Sample task 035",
+        "Public Id": 6.5,
+        "State": "Done",
+        "Due Date": "2026-07-16T06:30:00.000Z",
+        "Completed Date": "2026-07-16T06:30:00.000Z",
+        "Actual Dates Start": "2026-07-16T06:30:00.000Z",
+        "Actual Dates End": "2026-07-16T06:30:00.000Z",
+        "Planned Effort": 6.5,
+        "Actual Effort": 6.5,
+        "Project": {
+          "id": "reccOKrVf8sdxP6n6ki",
+          "title": "Sample task 036"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 037"
+        }
+      }
+    },
+    {
+      "id": "recINqslG8TM0I4rrnZ",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 038",
+        "Fibery Id": "Sample task 039",
+        "Public Id": 7.5,
+        "State": "Cancelled",
+        "Completed Date": "2026-08-17T07:30:00.000Z",
+        "Planned Dates Start": "2026-08-17T07:30:00.000Z",
+        "Planned Dates End": "2026-08-17T07:30:00.000Z",
+        "Planned Effort": 7.5,
+        "Actual Effort": 7.5,
+        "Project": {
+          "id": "recIOXBl3rmNh6N0oNJ",
+          "title": "Sample task 040"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 041"
+        }
+      }
+    },
+    {
+      "id": "rec5xvYkhhRSTpgR97T",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 042",
+        "Fibery Id": "Sample task 043",
+        "Public Id": 8.5,
+        "State": "Done",
+        "Due Date": "2026-09-18T08:30:00.000Z",
+        "Completed Date": "2026-09-18T08:30:00.000Z",
+        "Actual Dates Start": "2026-09-18T08:30:00.000Z",
+        "Actual Dates End": "2026-09-18T08:30:00.000Z",
+        "Planned Effort": 8.5,
+        "Actual Effort": 8.5,
+        "Project": {
+          "id": "reccOKrVf8sdxP6n6ki",
+          "title": "Sample task 044"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 045"
+        },
+        "PT · Time Record": [
+          {
+            "id": "rec37Rg5GRAUO4lYgiW",
+            "title": "Sample task 046"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recGAf7SXSKGgKe9Xs6",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 047",
+        "Fibery Id": "Sample task 048",
+        "Public Id": 9.5,
+        "State": "Done",
+        "Completed Date": "2026-01-19T09:30:00.000Z",
+        "Actual Dates Start": "2026-01-19T09:30:00.000Z",
+        "Actual Dates End": "2026-01-19T09:30:00.000Z",
+        "Planned Effort": 9.5,
+        "Actual Effort": 9.5,
+        "Project": {
+          "id": "recvMwNRMM155d5EjnW",
+          "title": "Sample task 049"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 050"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recDQetCHpmKunLe2AR",
+            "title": "Sample task 051"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recpGdI4dxx7TkObBjY",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 052",
+        "Fibery Id": "Sample task 053",
+        "Public Id": 0.5,
+        "State": "Done",
+        "Completed Date": "2026-02-10T10:30:00.000Z",
+        "Planned Effort": 0.5,
+        "Actual Effort": 0.5,
+        "Project": {
+          "id": "reczSs7HrAr48CwOi20",
+          "title": "Sample task 054"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 055"
+        },
+        "Parent Task": {
+          "id": "recXAWbNSk97VZLEwom",
+          "title": "Sample task 056"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recvHsmvLXMI4HBeC7b",
+            "title": "Sample task 057"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recckYHOjdyKc0hSLBE",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 058",
+        "Fibery Id": "Sample task 059",
+        "Public Id": 1.5,
+        "State": "Indefinite",
+        "Actual Effort": 1.5,
+        "Project": {
+          "id": "recihwHKfdX3DZVLFs6",
+          "title": "Sample task 060"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 061"
+        }
+      }
+    },
+    {
+      "id": "recwQ91zC8ZtAh42ZmW",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 062",
+        "Fibery Id": "Sample task 063",
+        "Public Id": 2.5,
+        "State": "Done",
+        "Completed Date": "2026-04-12T12:30:00.000Z",
+        "Planned Effort": 2.5,
+        "Actual Effort": 2.5,
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 064"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 065"
+        },
+        "Parent Task": {
+          "id": "recpMe5j2li3iDReAaP",
+          "title": "Sample task 066"
+        }
+      }
+    },
+    {
+      "id": "recgV5NGoLQfLvqUmeu",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 067",
+        "Fibery Id": "Sample task 068",
+        "Public Id": 3.5,
+        "State": "Done",
+        "Due Date": "2026-05-13T13:30:00.000Z",
+        "Completed Date": "2026-05-13T13:30:00.000Z",
+        "Actual Dates Start": "2026-05-13T13:30:00.000Z",
+        "Actual Dates End": "2026-05-13T13:30:00.000Z",
+        "Planned Effort": 3.5,
+        "Actual Effort": 3.5,
+        "Project": {
+          "id": "recvMwNRMM155d5EjnW",
+          "title": "Sample task 069"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 070"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recoKY8lYawh5WeF9GI",
+            "title": "Sample task 071"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recKhua410LXtYgwk2R",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:40:47.591Z",
+      "fields": {
+        "Name": "Sample task 072",
+        "Fibery Id": "Sample task 073",
+        "Public Id": 4.5,
+        "State": "Done",
+        "Due Date": "2026-06-14T14:30:00.000Z",
+        "Completed Date": "2026-06-14T14:30:00.000Z",
+        "Actual Dates Start": "2026-06-14T14:30:00.000Z",
+        "Actual Dates End": "2026-06-14T14:30:00.000Z",
+        "Planned Effort": 4.5,
+        "Actual Effort": 4.5,
+        "Description": "Sample description for record 14. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "reclO1dGlg77lYPFfJr",
+          "title": "Sample task 074"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 075"
+        },
+        "PT · Time Record": [
+          {
+            "id": "reckQcSFImc2prxRKZA",
+            "title": "Sample task 076"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recH86zbvi3ctxQB4Gv",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 077",
+        "Fibery Id": "Sample task 078",
+        "Public Id": 5.5,
+        "State": "Cancelled",
+        "Completed Date": "2026-07-15T15:30:00.000Z",
+        "Actual Dates Start": "2026-07-15T15:30:00.000Z",
+        "Actual Dates End": "2026-07-15T15:30:00.000Z",
+        "Actual Effort": 5.5,
+        "Project": {
+          "id": "recM2brxKKOFWJh5sy3",
+          "title": "Sample task 079"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 080"
+        }
+      }
+    },
+    {
+      "id": "rec65A49pJXpBPubAsW",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T15:28:13.126Z",
+      "fields": {
+        "Name": "Sample task 081",
+        "Fibery Id": "Sample task 082",
+        "Public Id": 6.5,
+        "State": "Done",
+        "Due Date": "2026-08-16T16:30:00.000Z",
+        "Completed Date": "2026-08-16T16:30:00.000Z",
+        "Planned Dates Start": "2026-08-16T16:30:00.000Z",
+        "Planned Dates End": "2026-08-16T16:30:00.000Z",
+        "Actual Dates Start": "2026-08-16T16:30:00.000Z",
+        "Actual Dates End": "2026-08-16T16:30:00.000Z",
+        "Planned Effort": 6.5,
+        "Actual Effort": 6.5,
+        "Description": "Sample description for record 16. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Attachments": [
+          {
+            "id": "atmSAMPLE00000000",
+            "name": "sample-file-16.png",
+            "size": 12345,
+            "mimetype": "image/png",
+            "token": "sampleToken",
+            "width": 100,
+            "height": 100
+          }
+        ],
+        "Project": {
+          "id": "recNRFNULb5S2MiwfHk",
+          "title": "Sample task 083"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 084"
+        },
+        "Parent Task": {
+          "id": "recHR1YcL9weG76AZDS",
+          "title": "Sample task 085"
+        },
+        "Blocked by": [
+          {
+            "id": "recEZoAIvi2kbScX8s9",
+            "title": "Sample task 086"
+          }
+        ],
+        "PT · Time Record": [
+          {
+            "id": "rec37v4l35bmVwN3xsx",
+            "title": "Sample task 087"
+          },
+          {
+            "id": "recTX6jdgKcBDxMcaz4",
+            "title": "Sample task 088"
+          },
+          {
+            "id": "recNoXBPVBBWq0pKwQ4",
+            "title": "Sample task 089"
+          },
+          {
+            "id": "reczPeajhJaKoj6t3Kd",
+            "title": "Sample task 090"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recOO2DVrk0QlThiOrl",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 091",
+        "Fibery Id": "Sample task 092",
+        "Public Id": 7.5,
+        "State": "Open",
+        "Planned Effort": 7.5,
+        "Actual Effort": 7.5,
+        "Project": {
+          "id": "recgPyQwgmJFIgN4qoc",
+          "title": "Sample task 093"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 094"
+        }
+      }
+    },
+    {
+      "id": "recj9UK3XXELDo2A7Ld",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 095",
+        "Fibery Id": "Sample task 096",
+        "Public Id": 8.5,
+        "State": "Done",
+        "Completed Date": "2026-01-18T18:30:00.000Z",
+        "Actual Dates Start": "2026-01-18T18:30:00.000Z",
+        "Actual Dates End": "2026-01-18T18:30:00.000Z",
+        "Actual Effort": 8.5,
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 097"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 098"
+        },
+        "PT · Time Record": [
+          {
+            "id": "rec0dxO0ChPiH8xyLOy",
+            "title": "Sample task 099"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recep9esV3WQnNiV3Qt",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 100",
+        "Fibery Id": "Sample task 101",
+        "Public Id": 9.5,
+        "State": "Done",
+        "Completed Date": "2026-02-19T19:30:00.000Z",
+        "Planned Dates Start": "2026-02-19T19:30:00.000Z",
+        "Planned Dates End": "2026-02-19T19:30:00.000Z",
+        "Actual Dates Start": "2026-02-19T19:30:00.000Z",
+        "Actual Dates End": "2026-02-19T19:30:00.000Z",
+        "Planned Effort": 9.5,
+        "Actual Effort": 9.5,
+        "Project": {
+          "id": "recOHpiWAcEOmKw28CP",
+          "title": "Sample task 102"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 103"
+        },
+        "Blocked by": [
+          {
+            "id": "reccFD8EJ3gKT1XFmVL",
+            "title": "Sample task 104"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recOz8urYf3cwejEtu2",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T12:03:20.765Z",
+      "fields": {
+        "Name": "Sample task 105",
+        "Fibery Id": "Sample task 106",
+        "Public Id": 0.5,
+        "State": "Done",
+        "Due Date": "2026-03-10T20:30:00.000Z",
+        "Completed Date": "2026-03-10T20:30:00.000Z",
+        "Actual Dates Start": "2026-03-10T20:30:00.000Z",
+        "Actual Dates End": "2026-03-10T20:30:00.000Z",
+        "Planned Effort": 0.5,
+        "Actual Effort": 0.5,
+        "Description": "Sample description for record 20. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "recNRFNULb5S2MiwfHk",
+          "title": "Sample task 107"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 108"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recU016asx4nDHQRe2m",
+            "title": "Sample task 109"
+          },
+          {
+            "id": "recgFx3MKhbWiyA3IUj",
+            "title": "Sample task 110"
+          },
+          {
+            "id": "recMdJvxQ9Z7vV894n2",
+            "title": "Sample task 111"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recJNtMf15Tgi0pXCEB",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 112",
+        "Fibery Id": "Sample task 113",
+        "Public Id": 1.5,
+        "State": "Done",
+        "Due Date": "2026-04-11T21:30:00.000Z",
+        "Completed Date": "2026-04-11T21:30:00.000Z",
+        "Planned Dates Start": "2026-04-11T21:30:00.000Z",
+        "Planned Dates End": "2026-04-11T21:30:00.000Z",
+        "Actual Dates Start": "2026-04-11T21:30:00.000Z",
+        "Actual Dates End": "2026-04-11T21:30:00.000Z",
+        "Planned Effort": 1.5,
+        "Actual Effort": 1.5,
+        "Project": {
+          "id": "recuTp9bFkkC8nA39yb",
+          "title": "Sample task 114"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 115"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recaEhvfe8YVRNQxMC0",
+            "title": "Sample task 116"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rec6CkAJdOvNkw8hMrD",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 117",
+        "Fibery Id": "Sample task 118",
+        "Public Id": 2.5,
+        "State": "Done",
+        "Completed Date": "2026-05-12T22:30:00.000Z",
+        "Actual Dates Start": "2026-05-12T22:30:00.000Z",
+        "Actual Dates End": "2026-05-12T22:30:00.000Z",
+        "Actual Effort": 2.5,
+        "Project": {
+          "id": "recuTp9bFkkC8nA39yb",
+          "title": "Sample task 119"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 120"
+        },
+        "Blocked by": [
+          {
+            "id": "recrMmYq8E6nMUd6QQN",
+            "title": "Sample task 121"
+          }
+        ],
+        "PT · Time Record": [
+          {
+            "id": "recH9A0uih1eYoKJGRQ",
+            "title": "Sample task 122"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recQVtV1WW4N6L7rop4",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 123",
+        "Fibery Id": "Sample task 124",
+        "Public Id": 3.5,
+        "State": "Cancelled",
+        "Due Date": "2026-06-13T23:30:00.000Z",
+        "Completed Date": "2026-06-13T23:30:00.000Z",
+        "Actual Dates Start": "2026-06-13T23:30:00.000Z",
+        "Actual Dates End": "2026-06-13T23:30:00.000Z",
+        "Planned Effort": 3.5,
+        "Actual Effort": 3.5,
+        "Project": {
+          "id": "reclO1dGlg77lYPFfJr",
+          "title": "Sample task 125"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 126"
+        },
+        "Blocked by": [
+          {
+            "id": "recnPQ53jbONrtwP0zt",
+            "title": "Sample task 127"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reckYsWLhbTntdbSHiM",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 128",
+        "Fibery Id": "Sample task 129",
+        "Public Id": 4.5,
+        "State": "Done",
+        "Completed Date": "2026-07-14T00:30:00.000Z",
+        "Actual Effort": 4.5,
+        "Project": {
+          "id": "recDVcioT0xVEaUVZ75",
+          "title": "Sample task 130"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 131"
+        }
+      }
+    },
+    {
+      "id": "recTMIR2CO5h86nVd7e",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:40:47.591Z",
+      "fields": {
+        "Name": "Sample task 132",
+        "Fibery Id": "Sample task 133",
+        "Public Id": 5.5,
+        "State": "Done",
+        "Due Date": "2026-08-15T01:30:00.000Z",
+        "Completed Date": "2026-08-15T01:30:00.000Z",
+        "Actual Dates Start": "2026-08-15T01:30:00.000Z",
+        "Actual Dates End": "2026-08-15T01:30:00.000Z",
+        "Planned Effort": 5.5,
+        "Actual Effort": 5.5,
+        "Description": "Sample description for record 25. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Attachments": [
+          {
+            "id": "atmSAMPLE00000000",
+            "name": "sample-file-25.png",
+            "size": 12345,
+            "mimetype": "image/png",
+            "token": "sampleToken",
+            "width": 100,
+            "height": 100
+          }
+        ],
+        "Project": {
+          "id": "reczSs7HrAr48CwOi20",
+          "title": "Sample task 134"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 135"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recUpOteB2r1CJ5jNO8",
+            "title": "Sample task 136"
+          }
+        ]
+      }
+    },
+    {
+      "id": "receZzxeVWx5wcYsDyc",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:40:47.591Z",
+      "fields": {
+        "Name": "Sample task 137",
+        "Fibery Id": "Sample task 138",
+        "Public Id": 6.5,
+        "State": "Cancelled",
+        "Completed Date": "2026-09-16T02:30:00.000Z",
+        "Actual Dates Start": "2026-09-16T02:30:00.000Z",
+        "Actual Dates End": "2026-09-16T02:30:00.000Z",
+        "Planned Effort": 6.5,
+        "Actual Effort": 6.5,
+        "Description": "Sample description for record 26. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "recGnmvTP5O6WD7K4sX",
+          "title": "Sample task 139"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 140"
+        }
+      }
+    },
+    {
+      "id": "recasj3IwwiCJ35cDwY",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T12:03:20.955Z",
+      "fields": {
+        "Name": "Sample task 141",
+        "Fibery Id": "Sample task 142",
+        "Public Id": 7.5,
+        "State": "Done",
+        "Due Date": "2026-01-17T03:30:00.000Z",
+        "Completed Date": "2026-01-17T03:30:00.000Z",
+        "Actual Dates Start": "2026-01-17T03:30:00.000Z",
+        "Actual Dates End": "2026-01-17T03:30:00.000Z",
+        "Planned Effort": 7.5,
+        "Actual Effort": 7.5,
+        "Description": "Sample description for record 27. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "reccOKrVf8sdxP6n6ki",
+          "title": "Sample task 143"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 144"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recr2pqKMLhsvQZ9GXQ",
+            "title": "Sample task 145"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recokV8vk0juLBh1SGE",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:40:47.591Z",
+      "fields": {
+        "Name": "Sample task 146",
+        "Fibery Id": "Sample task 147",
+        "Public Id": 8.5,
+        "State": "Done",
+        "Completed Date": "2026-02-18T04:30:00.000Z",
+        "Actual Dates Start": "2026-02-18T04:30:00.000Z",
+        "Actual Dates End": "2026-02-18T04:30:00.000Z",
+        "Planned Effort": 8.5,
+        "Actual Effort": 8.5,
+        "Description": "Sample description for record 28. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "rec5MXYGKIs1Aegu1Cm",
+          "title": "Sample task 148"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 149"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recrko79MhrK3aHvQUe",
+            "title": "Sample task 150"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recTUHbzw2ro0xrO1MN",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T12:03:20.765Z",
+      "fields": {
+        "Name": "Sample task 151",
+        "Fibery Id": "Sample task 152",
+        "Public Id": 9.5,
+        "State": "Cancelled",
+        "Completed Date": "2026-03-19T05:30:00.000Z",
+        "Planned Effort": 9.5,
+        "Actual Effort": 9.5,
+        "Description": "Sample description for record 29. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "rec54H4VH6o5Q4aX4qP",
+          "title": "Sample task 153"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 154"
+        }
+      }
+    },
+    {
+      "id": "recquRFWtUldtAPSalC",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:40:47.591Z",
+      "fields": {
+        "Name": "Sample task 155",
+        "Fibery Id": "Sample task 156",
+        "Public Id": 0.5,
+        "State": "Done",
+        "Due Date": "2026-04-10T06:30:00.000Z",
+        "Completed Date": "2026-04-10T06:30:00.000Z",
+        "Actual Dates Start": "2026-04-10T06:30:00.000Z",
+        "Actual Dates End": "2026-04-10T06:30:00.000Z",
+        "Planned Effort": 0.5,
+        "Actual Effort": 0.5,
+        "Description": "Sample description for record 30. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "reczSs7HrAr48CwOi20",
+          "title": "Sample task 157"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 158"
+        },
+        "Parent Task": {
+          "id": "rec2zWprJ7PcjSB4T2H",
+          "title": "Sample task 159"
+        },
+        "PT · Task": [
+          {
+            "id": "rec7KiFqiEKjqGK98az",
+            "title": "Sample task 160"
+          }
+        ],
+        "Blocked by": [
+          {
+            "id": "reczRU7rdvtzTaBWzJH",
+            "title": "Sample task 161"
+          }
+        ],
+        "PT · Task (linked)": [
+          {
+            "id": "rec7KiFqiEKjqGK98az",
+            "title": "Sample task 162"
+          }
+        ],
+        "PT · Time Record": [
+          {
+            "id": "receOIzQw1eWsWfx35b",
+            "title": "Sample task 163"
+          },
+          {
+            "id": "reczqQJV2ekfBlSb1Yl",
+            "title": "Sample task 164"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recx1E9nEF5Ex4zJm4L",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 165",
+        "Fibery Id": "Sample task 166",
+        "Public Id": 1.5,
+        "State": "Done",
+        "Completed Date": "2026-05-11T07:30:00.000Z",
+        "Actual Effort": 1.5,
+        "Project": {
+          "id": "receSUjNjblVHiwX42x",
+          "title": "Sample task 167"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 168"
+        },
+        "Parent Task": {
+          "id": "recT4BcjPPiGUHAXMz1",
+          "title": "Sample task 169"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recdnumOLwnH3p7IBA9",
+            "title": "Sample task 170"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recTyuydPQMGmmn6NOi",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 171",
+        "Fibery Id": "Sample task 172",
+        "Public Id": 2.5,
+        "State": "Done",
+        "Completed Date": "2026-06-12T08:30:00.000Z",
+        "Planned Dates Start": "2026-06-12T08:30:00.000Z",
+        "Planned Dates End": "2026-06-12T08:30:00.000Z",
+        "Actual Dates Start": "2026-06-12T08:30:00.000Z",
+        "Actual Dates End": "2026-06-12T08:30:00.000Z",
+        "Actual Effort": 2.5,
+        "Project": {
+          "id": "recgPyQwgmJFIgN4qoc",
+          "title": "Sample task 173"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 174"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recN0SJFCNrhY9tOiMv",
+            "title": "Sample task 175"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recMMQ1fRzlx9WvAcyq",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T12:03:20.587Z",
+      "fields": {
+        "Name": "Sample task 176",
+        "Fibery Id": "Sample task 177",
+        "Public Id": 3.5,
+        "State": "Done",
+        "Completed Date": "2026-07-13T09:30:00.000Z",
+        "Actual Dates Start": "2026-07-13T09:30:00.000Z",
+        "Actual Dates End": "2026-07-13T09:30:00.000Z",
+        "Planned Effort": 3.5,
+        "Actual Effort": 3.5,
+        "Description": "Sample description for record 33. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "recIOXBl3rmNh6N0oNJ",
+          "title": "Sample task 178"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 179"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recDWi2lKSOnvXf1m26",
+            "title": "Sample task 180"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recR5dHWBsPQdCSX66O",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 181",
+        "Fibery Id": "Sample task 182",
+        "Public Id": 4.5,
+        "State": "Done",
+        "Completed Date": "2026-08-14T10:30:00.000Z",
+        "Actual Dates Start": "2026-08-14T10:30:00.000Z",
+        "Actual Dates End": "2026-08-14T10:30:00.000Z",
+        "Planned Effort": 4.5,
+        "Actual Effort": 4.5,
+        "Project": {
+          "id": "recGnmvTP5O6WD7K4sX",
+          "title": "Sample task 183"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 184"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recydTNALzDglEnVMn7",
+            "title": "Sample task 185"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recXnPxOAeNiDxa7mdF",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 186",
+        "Fibery Id": "Sample task 187",
+        "Public Id": 5.5,
+        "State": "Open",
+        "Actual Effort": 5.5,
+        "Project": {
+          "id": "reccSJW6zbhYk2y79aC",
+          "title": "Sample task 188"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 189"
+        },
+        "Parent Task": {
+          "id": "recmYwHvywvFuLP0Klj",
+          "title": "Sample task 190"
+        }
+      }
+    },
+    {
+      "id": "recu1q73LYd8qqLiFyu",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 191",
+        "Fibery Id": "Sample task 192",
+        "Public Id": 6.5,
+        "State": "Done",
+        "Due Date": "2026-01-16T12:30:00.000Z",
+        "Completed Date": "2026-01-16T12:30:00.000Z",
+        "Planned Effort": 6.5,
+        "Actual Effort": 6.5,
+        "Project": {
+          "id": "recvMwNRMM155d5EjnW",
+          "title": "Sample task 193"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 194"
+        }
+      }
+    },
+    {
+      "id": "recW8kkq4bDip0UKOp5",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 195",
+        "Fibery Id": "Sample task 196",
+        "Public Id": 7.5,
+        "State": "Indefinite",
+        "Actual Effort": 7.5,
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 197"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 198"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recKfXBelhSWmsMMGGZ",
+            "title": "Sample task 199"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recAH3v689ikQ9jqyAE",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 200",
+        "Fibery Id": "Sample task 201",
+        "Public Id": 8.5,
+        "State": "Done",
+        "Due Date": "2026-03-18T14:30:00.000Z",
+        "Completed Date": "2026-03-18T14:30:00.000Z",
+        "Actual Dates Start": "2026-03-18T14:30:00.000Z",
+        "Actual Dates End": "2026-03-18T14:30:00.000Z",
+        "Planned Effort": 8.5,
+        "Actual Effort": 8.5,
+        "Attachments": [
+          {
+            "id": "atmSAMPLE00000000",
+            "name": "sample-file-38.png",
+            "size": 12345,
+            "mimetype": "image/png",
+            "token": "sampleToken",
+            "width": 100,
+            "height": 100
+          }
+        ],
+        "Project": {
+          "id": "recC4xuFT0hu8CRgc6g",
+          "title": "Sample task 202"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 203"
+        },
+        "Parent Task": {
+          "id": "recLVEYRzzWy8KoHkOv",
+          "title": "Sample task 204"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recY2iEM8riWTvC493f",
+            "title": "Sample task 205"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recTtTD7kXMv0BLxceY",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 206",
+        "Fibery Id": "Sample task 207",
+        "Public Id": 9.5,
+        "State": "Done",
+        "Completed Date": "2026-04-19T15:30:00.000Z",
+        "Actual Dates Start": "2026-04-19T15:30:00.000Z",
+        "Actual Dates End": "2026-04-19T15:30:00.000Z",
+        "Planned Effort": 9.5,
+        "Actual Effort": 9.5,
+        "Project": {
+          "id": "recNRFNULb5S2MiwfHk",
+          "title": "Sample task 208"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 209"
+        },
+        "Parent Task": {
+          "id": "rec8pDspspCvLKjWDe6",
+          "title": "Sample task 210"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recAj4WSKNwAXjTQ4bc",
+            "title": "Sample task 211"
+          }
+        ]
+      }
+    },
+    {
+      "id": "rec2E4LwHpYR1Xstxan",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:40:47.591Z",
+      "fields": {
+        "Name": "Sample task 212",
+        "Fibery Id": "Sample task 213",
+        "Public Id": 0.5,
+        "State": "Done",
+        "Completed Date": "2026-05-10T16:30:00.000Z",
+        "Actual Dates Start": "2026-05-10T16:30:00.000Z",
+        "Actual Dates End": "2026-05-10T16:30:00.000Z",
+        "Planned Effort": 0.5,
+        "Actual Effort": 0.5,
+        "Description": "Sample description for record 40. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Project": {
+          "id": "reclO1dGlg77lYPFfJr",
+          "title": "Sample task 214"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 215"
+        },
+        "Parent Task": {
+          "id": "rec8nMLhEpD13VvnxMT",
+          "title": "Sample task 216"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recMPqVXZWdt7uIb7TH",
+            "title": "Sample task 217"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recX5VtZaAEm7Vg79fw",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 218",
+        "Fibery Id": "Sample task 219",
+        "Public Id": 1.5,
+        "State": "Done",
+        "Completed Date": "2026-06-11T17:30:00.000Z",
+        "Actual Dates Start": "2026-06-11T17:30:00.000Z",
+        "Actual Dates End": "2026-06-11T17:30:00.000Z",
+        "Planned Effort": 1.5,
+        "Actual Effort": 1.5,
+        "Project": {
+          "id": "reccpQq2CFmPq5IwkPr",
+          "title": "Sample task 220"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 221"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recezJ6sWX2YPQF7SCW",
+            "title": "Sample task 222"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recmCkKszQXE1T34j5N",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 223",
+        "Fibery Id": "Sample task 224",
+        "Public Id": 2.5,
+        "State": "Done",
+        "Completed Date": "2026-07-12T18:30:00.000Z",
+        "Actual Dates Start": "2026-07-12T18:30:00.000Z",
+        "Actual Dates End": "2026-07-12T18:30:00.000Z",
+        "Actual Effort": 2.5,
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 225"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 226"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recMtq62Djy2hV3zsha",
+            "title": "Sample task 227"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recPheQs70lezf9BJy1",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 228",
+        "Fibery Id": "Sample task 229",
+        "Public Id": 3.5,
+        "State": "Done",
+        "Due Date": "2026-08-13T19:30:00.000Z",
+        "Completed Date": "2026-08-13T19:30:00.000Z",
+        "Actual Dates Start": "2026-08-13T19:30:00.000Z",
+        "Actual Dates End": "2026-08-13T19:30:00.000Z",
+        "Planned Effort": 3.5,
+        "Actual Effort": 3.5,
+        "Project": {
+          "id": "recC4xuFT0hu8CRgc6g",
+          "title": "Sample task 230"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 231"
+        },
+        "Parent Task": {
+          "id": "recsoSl4KALlyoIjhQu",
+          "title": "Sample task 232"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recXge2g42P6WDTk80x",
+            "title": "Sample task 233"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recwZJbTUIWMkYu8QOz",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T12:01:50.483Z",
+      "fields": {
+        "Name": "Sample task 234",
+        "Fibery Id": "Sample task 235",
+        "Public Id": 4.5,
+        "State": "Cancelled",
+        "Completed Date": "2026-09-14T20:30:00.000Z",
+        "Actual Effort": 4.5,
+        "Description": "Sample description for record 44. Contains **markdown**, line breaks,\nand unicode · characters to stress decoders.",
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 236"
+        },
+        "PT · Task (linked)": [
+          {
+            "id": "recUXu2jDcD4qiwy9zD",
+            "title": "Sample task 237"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recxpWQ6LctC2yN7FYT",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 238",
+        "Fibery Id": "Sample task 239",
+        "Public Id": 5.5,
+        "State": "Done",
+        "Due Date": "2026-01-15T21:30:00.000Z",
+        "Completed Date": "2026-01-15T21:30:00.000Z",
+        "Actual Dates Start": "2026-01-15T21:30:00.000Z",
+        "Actual Dates End": "2026-01-15T21:30:00.000Z",
+        "Planned Effort": 5.5,
+        "Actual Effort": 5.5,
+        "Project": {
+          "id": "recNRFNULb5S2MiwfHk",
+          "title": "Sample task 240"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 241"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recjkfvlLVazsmYoaC8",
+            "title": "Sample task 242"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recQpVeKUOAIUv13rCe",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 243",
+        "Fibery Id": "Sample task 244",
+        "Public Id": 6.5,
+        "State": "Done",
+        "Completed Date": "2026-02-16T22:30:00.000Z",
+        "Actual Dates Start": "2026-02-16T22:30:00.000Z",
+        "Actual Dates End": "2026-02-16T22:30:00.000Z",
+        "Actual Effort": 6.5,
+        "Project": {
+          "id": "recWNHsDoT9flhId7lo",
+          "title": "Sample task 245"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 246"
+        }
+      }
+    },
+    {
+      "id": "recBTCD5Imgtg6FiRft",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-20T11:49:40.245Z",
+      "fields": {
+        "Name": "Sample task 247",
+        "Fibery Id": "Sample task 248",
+        "Public Id": 7.5,
+        "State": "Cancelled",
+        "Completed Date": "2026-03-17T23:30:00.000Z",
+        "Actual Dates Start": "2026-03-17T23:30:00.000Z",
+        "Actual Dates End": "2026-03-17T23:30:00.000Z",
+        "Actual Effort": 7.5,
+        "Project": {
+          "id": "receSUjNjblVHiwX42x",
+          "title": "Sample task 249"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 250"
+        }
+      }
+    },
+    {
+      "id": "recGw4kEsWqAbVdJCOt",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-24T11:21:53.394Z",
+      "fields": {
+        "Name": "Sample task 251",
+        "Fibery Id": "Sample task 252",
+        "Public Id": 8.5,
+        "State": "Done",
+        "Completed Date": "2026-04-18T00:30:00.000Z",
+        "Actual Dates Start": "2026-04-18T00:30:00.000Z",
+        "Actual Dates End": "2026-04-18T00:30:00.000Z",
+        "Planned Effort": 8.5,
+        "Actual Effort": 8.5,
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 253"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 254"
+        },
+        "Parent Task": {
+          "id": "recclcew7jIsh7rvxhv",
+          "title": "Sample task 255"
+        },
+        "PT · Time Record": [
+          {
+            "id": "recogJDMCOGZ9fIlQXa",
+            "title": "Sample task 256"
+          }
+        ]
+      }
+    },
+    {
+      "id": "recl7ahX2fc7sHboLzF",
+      "createdTime": "2026-08-20T11:49:40.245Z",
+      "lastModifiedTime": "2026-08-22T12:10:53.085Z",
+      "fields": {
+        "Name": "Sample task 257",
+        "Fibery Id": "Sample task 258",
+        "Public Id": 9.5,
+        "State": "In Progress",
+        "Actual Effort": 9.5,
+        "Project": {
+          "id": "recFWn8DNoZ2aaSbNym",
+          "title": "Sample task 259"
+        },
+        "Assignee": {
+          "id": "rectZAtTMdWp1ekLG1j",
+          "title": "Sample task 260"
+        }
+      }
+    }
+  ]
+}

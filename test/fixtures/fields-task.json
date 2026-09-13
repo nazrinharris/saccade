@@ -1,0 +1,390 @@
+[
+  {
+    "id": "fldIHbBgoni1BtLiDCJ",
+    "dbFieldName": "Name",
+    "name": "Name",
+    "type": "singleLineText",
+    "options": {},
+    "unique": false,
+    "isPrimary": true,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fldXhddqLKhMKBOfXke",
+    "dbFieldName": "Fibery_Id",
+    "name": "Fibery Id",
+    "type": "singleLineText",
+    "options": {},
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fldD2o2zDlAJ2HPyVgF",
+    "dbFieldName": "Public_Id",
+    "name": "Public Id",
+    "type": "number",
+    "options": {
+      "formatting": {
+        "type": "decimal",
+        "precision": 2
+      }
+    },
+    "unique": false,
+    "cellValueType": "number",
+    "dbFieldType": "REAL"
+  },
+  {
+    "id": "fldOWoOWXB1ueAx7F9S",
+    "dbFieldName": "State",
+    "name": "State",
+    "type": "singleSelect",
+    "options": {
+      "choices": [
+        {
+          "id": "cho3XB7D8ah",
+          "name": "Open",
+          "color": "blueLight2"
+        },
+        {
+          "id": "choetQ6w79U",
+          "name": "In Progress",
+          "color": "blueLight1"
+        },
+        {
+          "id": "cho6cQcudhB",
+          "name": "Done",
+          "color": "blueBright"
+        },
+        {
+          "id": "chobjNMBzkD",
+          "name": "Halted",
+          "color": "blue"
+        },
+        {
+          "id": "chov14hlwOv",
+          "name": "Failed",
+          "color": "blueDark1"
+        },
+        {
+          "id": "choOYuxMqDa",
+          "name": "Cancelled",
+          "color": "cyanLight2"
+        },
+        {
+          "id": "choL8xDIOFU",
+          "name": "Indefinite",
+          "color": "cyanLight1"
+        }
+      ]
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fldP5ycXF2oq98llGul",
+    "dbFieldName": "Due_Date",
+    "name": "Due Date",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldd4I3pbVFy3EfgEkb",
+    "dbFieldName": "Completed_Date",
+    "name": "Completed Date",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldTk5VZgLLGtwJnmpR",
+    "dbFieldName": "Planned_Dates_Start",
+    "name": "Planned Dates Start",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldsI2LsiyL0tJsXjDl",
+    "dbFieldName": "Planned_Dates_End",
+    "name": "Planned Dates End",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldqxe3Td7xdv1Sy4I7",
+    "dbFieldName": "Actual_Dates_Start",
+    "name": "Actual Dates Start",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldpp55I5zXvsJlTHw4",
+    "dbFieldName": "Actual_Dates_End",
+    "name": "Actual Dates End",
+    "type": "date",
+    "options": {
+      "formatting": {
+        "date": "YYYY-MM-DD",
+        "time": "None",
+        "timeZone": "utc"
+      }
+    },
+    "unique": false,
+    "cellValueType": "dateTime",
+    "dbFieldType": "DATETIME"
+  },
+  {
+    "id": "fldLhEEVj7sk11JrN1T",
+    "dbFieldName": "Planned_Effort",
+    "name": "Planned Effort",
+    "type": "number",
+    "options": {
+      "formatting": {
+        "type": "decimal",
+        "precision": 2
+      }
+    },
+    "unique": false,
+    "cellValueType": "number",
+    "dbFieldType": "REAL"
+  },
+  {
+    "id": "fldlkiImIkVxEJuTTw6",
+    "dbFieldName": "Actual_Effort",
+    "name": "Actual Effort",
+    "type": "number",
+    "options": {
+      "formatting": {
+        "type": "decimal",
+        "precision": 2
+      }
+    },
+    "unique": false,
+    "cellValueType": "number",
+    "dbFieldType": "REAL"
+  },
+  {
+    "id": "fldHY9xJmuqcBvObvCy",
+    "dbFieldName": "Description",
+    "name": "Description",
+    "type": "longText",
+    "options": {},
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "TEXT"
+  },
+  {
+    "id": "fldFV0VDvMRiHEHiS3E",
+    "dbFieldName": "Attachments",
+    "name": "Attachments",
+    "type": "attachment",
+    "options": {},
+    "unique": false,
+    "cellValueType": "string",
+    "isMultipleCellValue": true,
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldybxDU8pQQNmv79w7",
+    "dbFieldName": "Project",
+    "name": "Project",
+    "type": "link",
+    "options": {
+      "relationship": "manyOne",
+      "foreignTableId": "tbl25pOTU2aZ3Ff3OOB",
+      "lookupFieldId": "fldj6QdNlI4qbr0urNu",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tblfTkOieln1CwH5Lkr",
+      "selfKeyName": "__id",
+      "foreignKeyName": "__fk_fldybxDU8pQQNmv79w7",
+      "symmetricFieldId": "fldpxdQZ6ykWd5Wwtny"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldd6V0074D0fOCuUnZ",
+    "dbFieldName": "Assignee",
+    "name": "Assignee",
+    "type": "link",
+    "options": {
+      "relationship": "manyOne",
+      "foreignTableId": "tblhiXRJ9agmsc9NG6r",
+      "lookupFieldId": "fld0VXYVy93vv3ksvgE",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tblfTkOieln1CwH5Lkr",
+      "selfKeyName": "__id",
+      "foreignKeyName": "__fk_fldd6V0074D0fOCuUnZ",
+      "symmetricFieldId": "fldjftUeTmiQyNrytO7"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldv1Zbatg0pA7cSHgD",
+    "dbFieldName": "Parent_Task",
+    "name": "Parent Task",
+    "type": "link",
+    "options": {
+      "relationship": "manyOne",
+      "foreignTableId": "tblfTkOieln1CwH5Lkr",
+      "lookupFieldId": "fldIHbBgoni1BtLiDCJ",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tblfTkOieln1CwH5Lkr",
+      "selfKeyName": "__id",
+      "foreignKeyName": "__fk_fldv1Zbatg0pA7cSHgD",
+      "symmetricFieldId": "fldL4XHBbCC8ycBJvEt"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldL4XHBbCC8ycBJvEt",
+    "dbFieldName": "PT_Task",
+    "name": "PT · Task",
+    "type": "link",
+    "options": {
+      "relationship": "oneMany",
+      "foreignTableId": "tblfTkOieln1CwH5Lkr",
+      "lookupFieldId": "fldIHbBgoni1BtLiDCJ",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tblfTkOieln1CwH5Lkr",
+      "selfKeyName": "__fk_fldv1Zbatg0pA7cSHgD",
+      "foreignKeyName": "__id",
+      "symmetricFieldId": "fldv1Zbatg0pA7cSHgD"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "isMultipleCellValue": true,
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldJeIMZoVRuD7HqueN",
+    "dbFieldName": "Blocked_by",
+    "name": "Blocked by",
+    "type": "link",
+    "options": {
+      "relationship": "manyMany",
+      "foreignTableId": "tblfTkOieln1CwH5Lkr",
+      "lookupFieldId": "fldIHbBgoni1BtLiDCJ",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.junction_fldJeIMZoVRuD7HqueN_fldIy8w5i4jYhVbpJXS",
+      "selfKeyName": "__fk_fldIy8w5i4jYhVbpJXS",
+      "foreignKeyName": "__fk_fldJeIMZoVRuD7HqueN",
+      "symmetricFieldId": "fldIy8w5i4jYhVbpJXS"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "isMultipleCellValue": true,
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldIy8w5i4jYhVbpJXS",
+    "dbFieldName": "PT_Task_linked",
+    "name": "PT · Task (linked)",
+    "type": "link",
+    "options": {
+      "relationship": "manyMany",
+      "foreignTableId": "tblfTkOieln1CwH5Lkr",
+      "lookupFieldId": "fldIHbBgoni1BtLiDCJ",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.junction_fldJeIMZoVRuD7HqueN_fldIy8w5i4jYhVbpJXS",
+      "selfKeyName": "__fk_fldJeIMZoVRuD7HqueN",
+      "foreignKeyName": "__fk_fldIy8w5i4jYhVbpJXS",
+      "symmetricFieldId": "fldJeIMZoVRuD7HqueN"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "isMultipleCellValue": true,
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldXS32VV3rvZpgv2T7",
+    "dbFieldName": "PT_Time_Record",
+    "name": "PT · Time Record",
+    "type": "link",
+    "options": {
+      "relationship": "oneMany",
+      "foreignTableId": "tbl4jQiRVMtGxUMPjWB",
+      "lookupFieldId": "fldbiFNMayskSK10c8P",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tbl4jQiRVMtGxUMPjWB",
+      "selfKeyName": "__fk_fldYtA4vcpolbu8pkZk",
+      "foreignKeyName": "__id",
+      "symmetricFieldId": "fldYtA4vcpolbu8pkZk"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "isMultipleCellValue": true,
+    "dbFieldType": "JSON"
+  },
+  {
+    "id": "fldG8uac6Xu9dFH2f6e",
+    "dbFieldName": "Docs",
+    "name": "Docs",
+    "type": "link",
+    "options": {
+      "relationship": "oneMany",
+      "foreignTableId": "tblYPFjFM6ilrA05VcF",
+      "lookupFieldId": "fldkksywT5sCtdBbUj8",
+      "isOneWay": false,
+      "fkHostTableName": "bseMJH59ND24XhTstN0.tblYPFjFM6ilrA05VcF",
+      "selfKeyName": "__fk_fldfGnllW9MDGh8yYzC",
+      "foreignKeyName": "__id",
+      "symmetricFieldId": "fldfGnllW9MDGh8yYzC"
+    },
+    "unique": false,
+    "cellValueType": "string",
+    "isMultipleCellValue": true,
+    "dbFieldType": "JSON"
+  }
+]

@@ -1,0 +1,1354 @@
+{
+  "records": [
+    {
+      "id": "rec5xXsnOWlhbI08FH2",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 261",
+        "Fibery Id": "Sample task 262",
+        "Public Id": 0.5,
+        "Status": "Completed",
+        "Time Start": "2026-01-10T00:30:00.000Z",
+        "Time End": "2026-01-10T00:30:00.000Z",
+        "Duration (hrs)": 0.5,
+        "Duration (mins)": 0.5,
+        "Task": {
+          "id": "rec0j45LKxEaeUO8g1a",
+          "title": "Sample task 263"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 264"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 265"
+        }
+      }
+    },
+    {
+      "id": "recvKhv1pqdQR1oyU7F",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 266",
+        "Fibery Id": "Sample task 267",
+        "Public Id": 1.5,
+        "Status": "Completed",
+        "Time Start": "2026-02-11T01:30:00.000Z",
+        "Time End": "2026-02-11T01:30:00.000Z",
+        "Duration (hrs)": 1.5,
+        "Duration (mins)": 1.5,
+        "Task": {
+          "id": "reclAnrnbRDt91WMN6l",
+          "title": "Sample task 268"
+        },
+        "Project": {
+          "id": "reccOKrVf8sdxP6n6ki",
+          "title": "Sample task 269"
+        },
+        "Area": {
+          "id": "recHGHBVwJofwVTBqLR",
+          "title": "Sample task 270"
+        }
+      }
+    },
+    {
+      "id": "reclpEs4APkQjM9wD6l",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 271",
+        "Fibery Id": "Sample task 272",
+        "Public Id": 2.5,
+        "Status": "Completed",
+        "Time Start": "2026-03-12T02:30:00.000Z",
+        "Time End": "2026-03-12T02:30:00.000Z",
+        "Duration (hrs)": 2.5,
+        "Duration (mins)": 2.5,
+        "Task": {
+          "id": "recOjfLnSGq82ljDYqx",
+          "title": "Sample task 273"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 274"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 275"
+        }
+      }
+    },
+    {
+      "id": "recJsoczI5nOqcrEq6I",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 276",
+        "Fibery Id": "Sample task 277",
+        "Public Id": 3.5,
+        "Status": "Completed",
+        "Time Start": "2026-04-13T03:30:00.000Z",
+        "Time End": "2026-04-13T03:30:00.000Z",
+        "Duration (hrs)": 3.5,
+        "Duration (mins)": 3.5,
+        "Task": {
+          "id": "recyfGOvlaMezD1ZHNI",
+          "title": "Sample task 278"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 279"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 280"
+        }
+      }
+    },
+    {
+      "id": "recu6mJ6PbZSKQ4ZpP7",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 281",
+        "Fibery Id": "Sample task 282",
+        "Public Id": 4.5,
+        "Status": "Completed",
+        "Time Start": "2026-05-14T04:30:00.000Z",
+        "Time End": "2026-05-14T04:30:00.000Z",
+        "Duration (hrs)": 4.5,
+        "Duration (mins)": 4.5,
+        "Task": {
+          "id": "rec9XQZwTbLYD2iAvkW",
+          "title": "Sample task 283"
+        },
+        "Project": {
+          "id": "reczSs7HrAr48CwOi20",
+          "title": "Sample task 284"
+        },
+        "Area": {
+          "id": "recmQZ1njyqVxttvY0c",
+          "title": "Sample task 285"
+        }
+      }
+    },
+    {
+      "id": "rec1pS19KduIRkWialL",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 286",
+        "Fibery Id": "Sample task 287",
+        "Public Id": 5.5,
+        "Status": "Completed",
+        "Time Start": "2026-06-15T05:30:00.000Z",
+        "Time End": "2026-06-15T05:30:00.000Z",
+        "Duration (hrs)": 5.5,
+        "Duration (mins)": 5.5,
+        "Task": {
+          "id": "recOjfLnSGq82ljDYqx",
+          "title": "Sample task 288"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 289"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 290"
+        }
+      }
+    },
+    {
+      "id": "recCWF78cHsyq4kqcAg",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 291",
+        "Fibery Id": "Sample task 292",
+        "Public Id": 6.5,
+        "Status": "Completed",
+        "Time Start": "2026-07-16T06:30:00.000Z",
+        "Time End": "2026-07-16T06:30:00.000Z",
+        "Duration (hrs)": 6.5,
+        "Duration (mins)": 6.5,
+        "Task": {
+          "id": "reckPcbSQWf68ZU8Yj5",
+          "title": "Sample task 293"
+        },
+        "Project": {
+          "id": "rec0XHN1f9B2Swxyix2",
+          "title": "Sample task 294"
+        },
+        "Area": {
+          "id": "recmQZ1njyqVxttvY0c",
+          "title": "Sample task 295"
+        }
+      }
+    },
+    {
+      "id": "recrGW7Fmo9yODD2EoU",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 296",
+        "Fibery Id": "Sample task 297",
+        "Public Id": 7.5,
+        "Status": "Completed",
+        "Time Start": "2026-08-17T07:30:00.000Z",
+        "Time End": "2026-08-17T07:30:00.000Z",
+        "Duration (hrs)": 7.5,
+        "Duration (mins)": 7.5,
+        "Task": {
+          "id": "recJGN3xu5Gbg16ru3U",
+          "title": "Sample task 298"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 299"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 300"
+        }
+      }
+    },
+    {
+      "id": "rectlYdUHRG6cvd2PZV",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 301",
+        "Fibery Id": "Sample task 302",
+        "Public Id": 8.5,
+        "Status": "Completed",
+        "Time Start": "2026-09-18T08:30:00.000Z",
+        "Time End": "2026-09-18T08:30:00.000Z",
+        "Duration (hrs)": 8.5,
+        "Duration (mins)": 8.5,
+        "Task": {
+          "id": "recjqXDcZTnZVCtftBD",
+          "title": "Sample task 303"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 304"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 305"
+        }
+      }
+    },
+    {
+      "id": "recoMy7cuL7FRgBmVTB",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 306",
+        "Fibery Id": "Sample task 307",
+        "Public Id": 9.5,
+        "Status": "Completed",
+        "Time Start": "2026-01-19T09:30:00.000Z",
+        "Time End": "2026-01-19T09:30:00.000Z",
+        "Duration (hrs)": 9.5,
+        "Duration (mins)": 9.5,
+        "Task": {
+          "id": "recjqb96Aocl3s2z8Ag",
+          "title": "Sample task 308"
+        },
+        "Project": {
+          "id": "recGRDlymwTmXzmOLoA",
+          "title": "Sample task 309"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 310"
+        }
+      }
+    },
+    {
+      "id": "recE86z7XkBr4duoXOm",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 311",
+        "Fibery Id": "Sample task 312",
+        "Public Id": 0.5,
+        "Status": "Completed",
+        "Time Start": "2026-02-10T10:30:00.000Z",
+        "Time End": "2026-02-10T10:30:00.000Z",
+        "Duration (hrs)": 0.5,
+        "Duration (mins)": 0.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 313"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 314"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 315"
+        }
+      }
+    },
+    {
+      "id": "recJQzX6w3ns81O0ENw",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 316",
+        "Fibery Id": "Sample task 317",
+        "Public Id": 1.5,
+        "Status": "Completed",
+        "Time Start": "2026-03-11T11:30:00.000Z",
+        "Time End": "2026-03-11T11:30:00.000Z",
+        "Duration (hrs)": 1.5,
+        "Duration (mins)": 1.5,
+        "Task": {
+          "id": "recjOAfSQ0qpAyN0nFB",
+          "title": "Sample task 318"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 319"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 320"
+        }
+      }
+    },
+    {
+      "id": "rec7SeMScivoffvWyjX",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 321",
+        "Fibery Id": "Sample task 322",
+        "Public Id": 2.5,
+        "Status": "Completed",
+        "Time Start": "2026-04-12T12:30:00.000Z",
+        "Time End": "2026-04-12T12:30:00.000Z",
+        "Duration (hrs)": 2.5,
+        "Duration (mins)": 2.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 323"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 324"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 325"
+        }
+      }
+    },
+    {
+      "id": "recdReiO4VeKdFHc9gL",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 326",
+        "Fibery Id": "Sample task 327",
+        "Public Id": 3.5,
+        "Status": "Completed",
+        "Time Start": "2026-05-13T13:30:00.000Z",
+        "Time End": "2026-05-13T13:30:00.000Z",
+        "Duration (hrs)": 3.5,
+        "Duration (mins)": 3.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 328"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 329"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 330"
+        }
+      }
+    },
+    {
+      "id": "recKD80NLS84bfbeWRs",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 331",
+        "Fibery Id": "Sample task 332",
+        "Public Id": 4.5,
+        "Status": "Completed",
+        "Time Start": "2026-06-14T14:30:00.000Z",
+        "Time End": "2026-06-14T14:30:00.000Z",
+        "Duration (hrs)": 4.5,
+        "Duration (mins)": 4.5,
+        "Task": {
+          "id": "recYjT6OcZz6T5ch9F3",
+          "title": "Sample task 333"
+        },
+        "Project": {
+          "id": "recl20aiiLOw4v5ze4Q",
+          "title": "Sample task 334"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 335"
+        }
+      }
+    },
+    {
+      "id": "recJWpbtLkJenqqheTw",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 336",
+        "Fibery Id": "Sample task 337",
+        "Public Id": 5.5,
+        "Status": "Completed",
+        "Time Start": "2026-07-15T15:30:00.000Z",
+        "Time End": "2026-07-15T15:30:00.000Z",
+        "Duration (hrs)": 5.5,
+        "Duration (mins)": 5.5,
+        "Task": {
+          "id": "recjqb96Aocl3s2z8Ag",
+          "title": "Sample task 338"
+        },
+        "Project": {
+          "id": "recGRDlymwTmXzmOLoA",
+          "title": "Sample task 339"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 340"
+        }
+      }
+    },
+    {
+      "id": "recymEik3HIpGegU5vc",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 341",
+        "Fibery Id": "Sample task 342",
+        "Public Id": 6.5,
+        "Status": "Completed",
+        "Time Start": "2026-08-16T16:30:00.000Z",
+        "Time End": "2026-08-16T16:30:00.000Z",
+        "Duration (hrs)": 6.5,
+        "Duration (mins)": 6.5,
+        "Task": {
+          "id": "recjqb96Aocl3s2z8Ag",
+          "title": "Sample task 343"
+        },
+        "Project": {
+          "id": "recGRDlymwTmXzmOLoA",
+          "title": "Sample task 344"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 345"
+        }
+      }
+    },
+    {
+      "id": "recZznqA1OGvcSHknut",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 346",
+        "Fibery Id": "Sample task 347",
+        "Public Id": 7.5,
+        "Status": "Completed",
+        "Time Start": "2026-09-17T17:30:00.000Z",
+        "Time End": "2026-09-17T17:30:00.000Z",
+        "Duration (hrs)": 7.5,
+        "Duration (mins)": 7.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 348"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 349"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 350"
+        }
+      }
+    },
+    {
+      "id": "recmTqH4YijH51Mnzio",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 351",
+        "Fibery Id": "Sample task 352",
+        "Public Id": 8.5,
+        "Status": "Completed",
+        "Time Start": "2026-01-18T18:30:00.000Z",
+        "Time End": "2026-01-18T18:30:00.000Z",
+        "Duration (hrs)": 8.5,
+        "Duration (mins)": 8.5,
+        "Task": {
+          "id": "recGqlkVCQlNCSzlLaN",
+          "title": "Sample task 353"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 354"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 355"
+        }
+      }
+    },
+    {
+      "id": "recKlIyeqUCj5BerePg",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 356",
+        "Fibery Id": "Sample task 357",
+        "Public Id": 9.5,
+        "Status": "Completed",
+        "Time Start": "2026-02-19T19:30:00.000Z",
+        "Time End": "2026-02-19T19:30:00.000Z",
+        "Duration (hrs)": 9.5,
+        "Duration (mins)": 9.5,
+        "Task": {
+          "id": "recKAdtiy5n9OQkbtFb",
+          "title": "Sample task 358"
+        },
+        "Project": {
+          "id": "recPLRLKBV56UTLWBHQ",
+          "title": "Sample task 359"
+        },
+        "Area": {
+          "id": "rec17Rs6On12cMLQdi9",
+          "title": "Sample task 360"
+        }
+      }
+    },
+    {
+      "id": "recQdn9vUfgtIWn4t72",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 361",
+        "Fibery Id": "Sample task 362",
+        "Public Id": 0.5,
+        "Status": "Completed",
+        "Time Start": "2026-03-10T20:30:00.000Z",
+        "Time End": "2026-03-10T20:30:00.000Z",
+        "Duration (hrs)": 0.5,
+        "Duration (mins)": 0.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 363"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 364"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 365"
+        }
+      }
+    },
+    {
+      "id": "recyrSBJi8teqDjof7N",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 366",
+        "Fibery Id": "Sample task 367",
+        "Public Id": 1.5,
+        "Status": "Completed",
+        "Time Start": "2026-04-11T21:30:00.000Z",
+        "Time End": "2026-04-11T21:30:00.000Z",
+        "Duration (hrs)": 1.5,
+        "Duration (mins)": 1.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 368"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 369"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 370"
+        }
+      }
+    },
+    {
+      "id": "recO0A7btCzvSWvAkhb",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 371",
+        "Fibery Id": "Sample task 372",
+        "Public Id": 2.5,
+        "Status": "Completed",
+        "Time Start": "2026-05-12T22:30:00.000Z",
+        "Time End": "2026-05-12T22:30:00.000Z",
+        "Duration (hrs)": 2.5,
+        "Duration (mins)": 2.5,
+        "Task": {
+          "id": "recMHNf0OSyMaTTYIzR",
+          "title": "Sample task 373"
+        },
+        "Project": {
+          "id": "recWNHsDoT9flhId7lo",
+          "title": "Sample task 374"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 375"
+        }
+      }
+    },
+    {
+      "id": "recYTk5VrQVfBd0wmBj",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 376",
+        "Fibery Id": "Sample task 377",
+        "Public Id": 3.5,
+        "Status": "Completed",
+        "Time Start": "2026-06-13T23:30:00.000Z",
+        "Time End": "2026-06-13T23:30:00.000Z",
+        "Duration (hrs)": 3.5,
+        "Duration (mins)": 3.5,
+        "Task": {
+          "id": "recpwojtleokqestno2",
+          "title": "Sample task 378"
+        },
+        "Project": {
+          "id": "reczSs7HrAr48CwOi20",
+          "title": "Sample task 379"
+        },
+        "Area": {
+          "id": "recmQZ1njyqVxttvY0c",
+          "title": "Sample task 380"
+        }
+      }
+    },
+    {
+      "id": "recW9zRMz1KBoRiht2v",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 381",
+        "Fibery Id": "Sample task 382",
+        "Public Id": 4.5,
+        "Status": "Completed",
+        "Time Start": "2026-07-14T00:30:00.000Z",
+        "Time End": "2026-07-14T00:30:00.000Z",
+        "Duration (hrs)": 4.5,
+        "Duration (mins)": 4.5,
+        "Task": {
+          "id": "recNmFpWecz56Y8q2GX",
+          "title": "Sample task 383"
+        },
+        "Project": {
+          "id": "recmSEh6N6BukolS2Rg",
+          "title": "Sample task 384"
+        },
+        "Area": {
+          "id": "recmQZ1njyqVxttvY0c",
+          "title": "Sample task 385"
+        }
+      }
+    },
+    {
+      "id": "recXgl1z5I2w81aH2RD",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 386",
+        "Fibery Id": "Sample task 387",
+        "Public Id": 5.5,
+        "Status": "Completed",
+        "Time Start": "2026-08-15T01:30:00.000Z",
+        "Time End": "2026-08-15T01:30:00.000Z",
+        "Duration (hrs)": 5.5,
+        "Duration (mins)": 5.5,
+        "Task": {
+          "id": "recYHEsupX7z27nApPa",
+          "title": "Sample task 388"
+        },
+        "Project": {
+          "id": "reccOKrVf8sdxP6n6ki",
+          "title": "Sample task 389"
+        },
+        "Area": {
+          "id": "recHGHBVwJofwVTBqLR",
+          "title": "Sample task 390"
+        }
+      }
+    },
+    {
+      "id": "recZtgFVnSALhxkMkMR",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 391",
+        "Fibery Id": "Sample task 392",
+        "Public Id": 6.5,
+        "Status": "Completed",
+        "Time Start": "2026-09-16T02:30:00.000Z",
+        "Time End": "2026-09-16T02:30:00.000Z",
+        "Duration (hrs)": 6.5,
+        "Duration (mins)": 6.5,
+        "Task": {
+          "id": "reczeMxBLNdDRkrdgPp",
+          "title": "Sample task 393"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 394"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 395"
+        }
+      }
+    },
+    {
+      "id": "rec6sBfoKvquARirJ7w",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 396",
+        "Fibery Id": "Sample task 397",
+        "Public Id": 7.5,
+        "Status": "Completed",
+        "Time Start": "2026-01-17T03:30:00.000Z",
+        "Time End": "2026-01-17T03:30:00.000Z",
+        "Duration (hrs)": 7.5,
+        "Duration (mins)": 7.5,
+        "Task": {
+          "id": "recGYdbymTJOq5CvgXE",
+          "title": "Sample task 398"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 399"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 400"
+        }
+      }
+    },
+    {
+      "id": "rech8j80vRySGAkGpHS",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 401",
+        "Fibery Id": "Sample task 402",
+        "Public Id": 8.5,
+        "Status": "Completed",
+        "Time Start": "2026-02-18T04:30:00.000Z",
+        "Time End": "2026-02-18T04:30:00.000Z",
+        "Duration (hrs)": 8.5,
+        "Duration (mins)": 8.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 403"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 404"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 405"
+        }
+      }
+    },
+    {
+      "id": "rec9v01hqBtfqGtiqGs",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 406",
+        "Fibery Id": "Sample task 407",
+        "Public Id": 9.5,
+        "Status": "Completed",
+        "Time Start": "2026-03-19T05:30:00.000Z",
+        "Time End": "2026-03-19T05:30:00.000Z",
+        "Duration (hrs)": 9.5,
+        "Duration (mins)": 9.5,
+        "Task": {
+          "id": "recubHSQ0KlyEpZy6iG",
+          "title": "Sample task 408"
+        },
+        "Project": {
+          "id": "recQgg5lOsLzICY3ipZ",
+          "title": "Sample task 409"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 410"
+        }
+      }
+    },
+    {
+      "id": "recXtvDIPOhVTkOetNf",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 411",
+        "Fibery Id": "Sample task 412",
+        "Public Id": 0.5,
+        "Status": "Completed",
+        "Time Start": "2026-04-10T06:30:00.000Z",
+        "Time End": "2026-04-10T06:30:00.000Z",
+        "Duration (hrs)": 0.5,
+        "Duration (mins)": 0.5,
+        "Task": {
+          "id": "reclIj0USTEDNlISDpE",
+          "title": "Sample task 413"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 414"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 415"
+        }
+      }
+    },
+    {
+      "id": "recHBjCNrJ3jOEHVi29",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 416",
+        "Fibery Id": "Sample task 417",
+        "Public Id": 1.5,
+        "Status": "Completed",
+        "Time Start": "2026-05-11T07:30:00.000Z",
+        "Time End": "2026-05-11T07:30:00.000Z",
+        "Duration (hrs)": 1.5,
+        "Duration (mins)": 1.5,
+        "Task": {
+          "id": "recOjfLnSGq82ljDYqx",
+          "title": "Sample task 418"
+        },
+        "Project": {
+          "id": "recPRJ92268VBy8uQgy",
+          "title": "Sample task 419"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 420"
+        }
+      }
+    },
+    {
+      "id": "reczHmBXYFAwQm1rSUj",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 421",
+        "Fibery Id": "Sample task 422",
+        "Public Id": 2.5,
+        "Status": "Completed",
+        "Time Start": "2026-06-12T08:30:00.000Z",
+        "Time End": "2026-06-12T08:30:00.000Z",
+        "Duration (hrs)": 2.5,
+        "Duration (mins)": 2.5,
+        "Task": {
+          "id": "recm6A71X6sveovg8UU",
+          "title": "Sample task 423"
+        },
+        "Project": {
+          "id": "recM2brxKKOFWJh5sy3",
+          "title": "Sample task 424"
+        },
+        "Area": {
+          "id": "recHGHBVwJofwVTBqLR",
+          "title": "Sample task 425"
+        }
+      }
+    },
+    {
+      "id": "rec6ieL5MbN93qJbp8C",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 426",
+        "Fibery Id": "Sample task 427",
+        "Public Id": 3.5,
+        "Status": "Completed",
+        "Time Start": "2026-07-13T09:30:00.000Z",
+        "Time End": "2026-07-13T09:30:00.000Z",
+        "Duration (hrs)": 3.5,
+        "Duration (mins)": 3.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 428"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 429"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 430"
+        }
+      }
+    },
+    {
+      "id": "rech2wVQpnA01tLHLR3",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 431",
+        "Fibery Id": "Sample task 432",
+        "Public Id": 4.5,
+        "Status": "Completed",
+        "Time Start": "2026-08-14T10:30:00.000Z",
+        "Time End": "2026-08-14T10:30:00.000Z",
+        "Duration (hrs)": 4.5,
+        "Duration (mins)": 4.5,
+        "Task": {
+          "id": "rec31ewEP3c8Qk660Qi",
+          "title": "Sample task 433"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 434"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 435"
+        }
+      }
+    },
+    {
+      "id": "recKFhNAWMs4iiA8Pkq",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 436",
+        "Fibery Id": "Sample task 437",
+        "Public Id": 5.5,
+        "Status": "Completed",
+        "Time Start": "2026-09-15T11:30:00.000Z",
+        "Time End": "2026-09-15T11:30:00.000Z",
+        "Duration (hrs)": 5.5,
+        "Duration (mins)": 5.5,
+        "Task": {
+          "id": "recKAdtiy5n9OQkbtFb",
+          "title": "Sample task 438"
+        },
+        "Project": {
+          "id": "recPLRLKBV56UTLWBHQ",
+          "title": "Sample task 439"
+        },
+        "Area": {
+          "id": "rec17Rs6On12cMLQdi9",
+          "title": "Sample task 440"
+        }
+      }
+    },
+    {
+      "id": "recTCs2J0CPKprLGAxD",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 441",
+        "Fibery Id": "Sample task 442",
+        "Public Id": 6.5,
+        "Status": "Completed",
+        "Time Start": "2026-01-16T12:30:00.000Z",
+        "Time End": "2026-01-16T12:30:00.000Z",
+        "Duration (hrs)": 6.5,
+        "Duration (mins)": 6.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 443"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 444"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 445"
+        }
+      }
+    },
+    {
+      "id": "rec1NabyzBF8wmPEHs9",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 446",
+        "Fibery Id": "Sample task 447",
+        "Public Id": 7.5,
+        "Status": "Completed",
+        "Time Start": "2026-02-17T13:30:00.000Z",
+        "Time End": "2026-02-17T13:30:00.000Z",
+        "Duration (hrs)": 7.5,
+        "Duration (mins)": 7.5,
+        "Task": {
+          "id": "recjqb96Aocl3s2z8Ag",
+          "title": "Sample task 448"
+        },
+        "Project": {
+          "id": "recGRDlymwTmXzmOLoA",
+          "title": "Sample task 449"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 450"
+        }
+      }
+    },
+    {
+      "id": "recDGyDYHIiNwY09j4U",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 451",
+        "Fibery Id": "Sample task 452",
+        "Public Id": 8.5,
+        "Status": "Completed",
+        "Time Start": "2026-03-18T14:30:00.000Z",
+        "Time End": "2026-03-18T14:30:00.000Z",
+        "Duration (hrs)": 8.5,
+        "Duration (mins)": 8.5,
+        "Task": {
+          "id": "rechZvhJdBrErGDYJRt",
+          "title": "Sample task 453"
+        },
+        "Project": {
+          "id": "recC4xuFT0hu8CRgc6g",
+          "title": "Sample task 454"
+        },
+        "Area": {
+          "id": "recHGHBVwJofwVTBqLR",
+          "title": "Sample task 455"
+        }
+      }
+    },
+    {
+      "id": "rec2NKTIeOYmQXPffSZ",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 456",
+        "Fibery Id": "Sample task 457",
+        "Public Id": 9.5,
+        "Status": "Completed",
+        "Time Start": "2026-04-19T15:30:00.000Z",
+        "Time End": "2026-04-19T15:30:00.000Z",
+        "Duration (hrs)": 9.5,
+        "Duration (mins)": 9.5,
+        "Task": {
+          "id": "reclaYAZInTgptfjlcg",
+          "title": "Sample task 458"
+        },
+        "Project": {
+          "id": "recGnmvTP5O6WD7K4sX",
+          "title": "Sample task 459"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 460"
+        }
+      }
+    },
+    {
+      "id": "rec1fKJrLvKmFBjVf74",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 461",
+        "Fibery Id": "Sample task 462",
+        "Public Id": 0.5,
+        "Status": "Completed",
+        "Time Start": "2026-05-10T16:30:00.000Z",
+        "Time End": "2026-05-10T16:30:00.000Z",
+        "Duration (hrs)": 0.5,
+        "Duration (mins)": 0.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 463"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 464"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 465"
+        }
+      }
+    },
+    {
+      "id": "recx71OUH3KSmOihBUC",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 466",
+        "Fibery Id": "Sample task 467",
+        "Public Id": 1.5,
+        "Status": "Completed",
+        "Time Start": "2026-06-11T17:30:00.000Z",
+        "Time End": "2026-06-11T17:30:00.000Z",
+        "Duration (hrs)": 1.5,
+        "Duration (mins)": 1.5,
+        "Task": {
+          "id": "rec9IyFgT85tq7oyJzH",
+          "title": "Sample task 468"
+        },
+        "Project": {
+          "id": "recWNHsDoT9flhId7lo",
+          "title": "Sample task 469"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 470"
+        }
+      }
+    },
+    {
+      "id": "recNb7nF06wKdFPy3Eh",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 471",
+        "Fibery Id": "Sample task 472",
+        "Public Id": 2.5,
+        "Status": "Completed",
+        "Time Start": "2026-07-12T18:30:00.000Z",
+        "Time End": "2026-07-12T18:30:00.000Z",
+        "Duration (hrs)": 2.5,
+        "Duration (mins)": 2.5,
+        "Task": {
+          "id": "recxRYdN3lTOpiA4Ymz",
+          "title": "Sample task 473"
+        },
+        "Project": {
+          "id": "recO093V46wilht3p5Z",
+          "title": "Sample task 474"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 475"
+        }
+      }
+    },
+    {
+      "id": "recPxwEWkWVhgWTkZt0",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 476",
+        "Fibery Id": "Sample task 477",
+        "Public Id": 3.5,
+        "Status": "Completed",
+        "Time Start": "2026-08-13T19:30:00.000Z",
+        "Time End": "2026-08-13T19:30:00.000Z",
+        "Duration (hrs)": 3.5,
+        "Duration (mins)": 3.5,
+        "Task": {
+          "id": "recGPxIKBTzYPCZPUFP",
+          "title": "Sample task 478"
+        },
+        "Project": {
+          "id": "recNRFNULb5S2MiwfHk",
+          "title": "Sample task 479"
+        },
+        "Area": {
+          "id": "recHGHBVwJofwVTBqLR",
+          "title": "Sample task 480"
+        }
+      }
+    },
+    {
+      "id": "recjv7vzOMbemjHoqP5",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 481",
+        "Fibery Id": "Sample task 482",
+        "Public Id": 4.5,
+        "Status": "Completed",
+        "Time Start": "2026-09-14T20:30:00.000Z",
+        "Time End": "2026-09-14T20:30:00.000Z",
+        "Duration (hrs)": 4.5,
+        "Duration (mins)": 4.5,
+        "Task": {
+          "id": "recI2Bm5Ki8BFbswqWD",
+          "title": "Sample task 483"
+        },
+        "Project": {
+          "id": "rec0EJktjvmHtv8TN4F",
+          "title": "Sample task 484"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 485"
+        }
+      }
+    },
+    {
+      "id": "recVq7wO0amkguoHQdH",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 486",
+        "Fibery Id": "Sample task 487",
+        "Public Id": 5.5,
+        "Status": "Completed",
+        "Time Start": "2026-01-15T21:30:00.000Z",
+        "Time End": "2026-01-15T21:30:00.000Z",
+        "Duration (hrs)": 5.5,
+        "Duration (mins)": 5.5,
+        "Task": {
+          "id": "rec87kqqXX6s5VV7bHd",
+          "title": "Sample task 488"
+        },
+        "Project": {
+          "id": "recM2brxKKOFWJh5sy3",
+          "title": "Sample task 489"
+        },
+        "Area": {
+          "id": "recHGHBVwJofwVTBqLR",
+          "title": "Sample task 490"
+        }
+      }
+    },
+    {
+      "id": "reckZlViNkeu6SjsmoS",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 491",
+        "Fibery Id": "Sample task 492",
+        "Public Id": 6.5,
+        "Status": "Completed",
+        "Time Start": "2026-02-16T22:30:00.000Z",
+        "Time End": "2026-02-16T22:30:00.000Z",
+        "Duration (hrs)": 6.5,
+        "Duration (mins)": 6.5,
+        "Task": {
+          "id": "reclIj0USTEDNlISDpE",
+          "title": "Sample task 493"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 494"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 495"
+        }
+      }
+    },
+    {
+      "id": "recamYSSCpq0frLL2oL",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 496",
+        "Fibery Id": "Sample task 497",
+        "Public Id": 7.5,
+        "Status": "Completed",
+        "Time Start": "2026-03-17T23:30:00.000Z",
+        "Time End": "2026-03-17T23:30:00.000Z",
+        "Duration (hrs)": 7.5,
+        "Duration (mins)": 7.5,
+        "Task": {
+          "id": "rec11Vf50qaeKgXgtSA",
+          "title": "Sample task 498"
+        },
+        "Project": {
+          "id": "recQELUppZqr2WCygfS",
+          "title": "Sample task 499"
+        },
+        "Area": {
+          "id": "recEj8ZQjAUQuEuDsXM",
+          "title": "Sample task 500"
+        }
+      }
+    },
+    {
+      "id": "recYOnHp4DAzQ3NcaIV",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 501",
+        "Fibery Id": "Sample task 502",
+        "Public Id": 8.5,
+        "Status": "Completed",
+        "Time Start": "2026-04-18T00:30:00.000Z",
+        "Time End": "2026-04-18T00:30:00.000Z",
+        "Duration (hrs)": 8.5,
+        "Duration (mins)": 8.5,
+        "Task": {
+          "id": "recirjvGmC05AMaCkbF",
+          "title": "Sample task 503"
+        },
+        "Project": {
+          "id": "recvMwNRMM155d5EjnW",
+          "title": "Sample task 504"
+        },
+        "Area": {
+          "id": "recmQZ1njyqVxttvY0c",
+          "title": "Sample task 505"
+        }
+      }
+    },
+    {
+      "id": "rec0nO5kBoK4vOk0WzX",
+      "createdTime": "2026-08-20T11:49:46.356Z",
+      "lastModifiedTime": "2026-08-20T11:49:46.356Z",
+      "fields": {
+        "Name": "Sample task 506",
+        "Fibery Id": "Sample task 507",
+        "Public Id": 9.5,
+        "Status": "Completed",
+        "Time Start": "2026-05-19T01:30:00.000Z",
+        "Time End": "2026-05-19T01:30:00.000Z",
+        "Duration (hrs)": 9.5,
+        "Duration (mins)": 9.5,
+        "Task": {
+          "id": "recrRxpeSpaMDEapDnT",
+          "title": "Sample task 508"
+        },
+        "Project": {
+          "id": "recvMwNRMM155d5EjnW",
+          "title": "Sample task 509"
+        },
+        "Area": {
+          "id": "recmQZ1njyqVxttvY0c",
+          "title": "Sample task 510"
+        }
+      }
+    }
+  ]
+}

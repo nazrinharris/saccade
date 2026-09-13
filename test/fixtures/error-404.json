@@ -1,0 +1,10 @@
+{
+  "message": "Table ID does not exist",
+  "status": 403,
+  "code": "restricted_resource",
+  "data": {
+    "localization": {
+      "i18nKey": "httpErrors.table.notFound"
+    }
+  }
+}
