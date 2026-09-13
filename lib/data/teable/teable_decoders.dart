@@ -1,5 +1,3 @@
-// lib/data/teable/teable_decoders.dart
-
 import 'package:fpdart/fpdart.dart';
 
 import 'teable_field.dart';
