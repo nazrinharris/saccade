@@ -193,19 +193,18 @@ Either<TeableDecodeFailure, Map<String, TeableFieldValue>> decodeRecord(
   Map<String, dynamic> rawRecord,
 ) {
   final byName = {for (final f in fields) f.name: f};
+
+  for (final key in rawRecord.keys) {
+    if (!byName.containsKey(key)) {
+      return Left(MalformedCellFailure('Record has unknown field "$key"'));
+    }
+  }
+
   final out = <String, TeableFieldValue>{};
-  for (final entry in rawRecord.entries) {
-    final field = byName[entry.key];
-    if (field == null) {
-      return Left(
-        MalformedCellFailure('Record has unknown field "${entry.key}"'),
-      );
-    }
-    final decoded = decodeValue(field, entry.value);
-    if (decoded case Left(value: final failure)) {
-      return Left(failure);
-    }
-    out[entry.key] = decoded.getRight().toNullable()!;
+  for (final field in fields) {
+    final decoded = decodeValue(field, rawRecord[field.name]);
+    if (decoded case Left(value: final failure)) return Left(failure);
+    out[field.name] = decoded.getRight().toNullable()!;
   }
   return Right(out);
 }
