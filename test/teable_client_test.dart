@@ -173,17 +173,17 @@ void main() {
 
       final state = fields.firstWhere((f) => f.name == 'State');
       expect(state.type, 'singleSelect');
-      expect(state.options, isA<SelectFieldOptions>());
+      expect(state.options, isA<TeableSelectFieldOptions>());
       expect(
-        (state.options as SelectFieldOptions).choices.map((c) => c.name),
+        (state.options as TeableSelectFieldOptions).choices.map((c) => c.name),
         contains('Done'),
       );
 
       final project = fields.firstWhere((f) => f.name == 'Project');
-      expect(project.options, isA<LinkFieldOptions>());
+      expect(project.options, isA<TeableLinkFieldOptions>());
       expect(
-        (project.options as LinkFieldOptions).relationship,
-        Relationship.manyOne,
+        (project.options as TeableLinkFieldOptions).relationship,
+        TeableRelationship.manyOne,
       );
     });
 
@@ -214,7 +214,7 @@ void main() {
 
     test('an unrecognized relationship throws', () {
       expect(
-        () => Relationship.fromWire('manyToSome'),
+        () => TeableRelationship.fromWire('manyToSome'),
         throwsA(isA<ArgumentError>()),
       );
     });

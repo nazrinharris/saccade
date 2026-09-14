@@ -24,37 +24,41 @@ sealed class TeableFieldOptions {
 }
 
 /// singleLineText, longText, checkbox, attachment
-class NoOptions extends TeableFieldOptions {
-  const NoOptions();
+class TeableNoOptions extends TeableFieldOptions {
+  const TeableNoOptions();
 }
 
-class NumberFieldOptions extends TeableFieldOptions {
-  final NumberFormattingType? formattingType;
+class TeableNumberFieldOptions extends TeableFieldOptions {
+  final TeableNumberFormattingType? formattingType;
   final int? precision;
 
-  const NumberFieldOptions({this.formattingType, this.precision});
+  const TeableNumberFieldOptions({this.formattingType, this.precision});
 }
 
-class DateFieldOptions extends TeableFieldOptions {
+class TeableDateFieldOptions extends TeableFieldOptions {
   final String? dateFormat;
   final String? timeFormat;
   final String? timeZone;
 
-  const DateFieldOptions({this.dateFormat, this.timeFormat, this.timeZone});
+  const TeableDateFieldOptions({
+    this.dateFormat,
+    this.timeFormat,
+    this.timeZone,
+  });
 }
 
-class SelectFieldOptions extends TeableFieldOptions {
+class TeableSelectFieldOptions extends TeableFieldOptions {
   final List<TeableSelectChoice> choices;
 
-  const SelectFieldOptions({required this.choices});
+  const TeableSelectFieldOptions({required this.choices});
 }
 
-class LinkFieldOptions extends TeableFieldOptions {
-  final Relationship relationship;
+class TeableLinkFieldOptions extends TeableFieldOptions {
+  final TeableRelationship relationship;
   final String foreignTableId;
   final String symmetricFieldId;
 
-  const LinkFieldOptions({
+  const TeableLinkFieldOptions({
     required this.relationship,
     required this.foreignTableId,
     required this.symmetricFieldId,
@@ -69,17 +73,17 @@ class TeableSelectChoice {
 }
 
 /// Teable's link cardinality. Exactly four legal values.
-enum Relationship {
+enum TeableRelationship {
   oneOne('oneOne'),
   oneMany('oneMany'),
   manyOne('manyOne'),
   manyMany('manyMany');
 
   final String wire;
-  const Relationship(this.wire);
+  const TeableRelationship(this.wire);
 
-  static Relationship fromWire(String value) {
-    for (final r in Relationship.values) {
+  static TeableRelationship fromWire(String value) {
+    for (final r in TeableRelationship.values) {
       if (r.wire == value) return r;
     }
     throw ArgumentError('Unrecognized link relationship: $value');
@@ -87,14 +91,14 @@ enum Relationship {
 }
 
 /// Teable's number formatting. Values seen so far: decimal.
-enum NumberFormattingType {
+enum TeableNumberFormattingType {
   decimal('decimal');
 
   final String wire;
-  const NumberFormattingType(this.wire);
+  const TeableNumberFormattingType(this.wire);
 
-  static NumberFormattingType fromWire(String value) {
-    for (final t in NumberFormattingType.values) {
+  static TeableNumberFormattingType fromWire(String value) {
+    for (final t in TeableNumberFormattingType.values) {
       if (t.wire == value) return t;
     }
     throw ArgumentError('Unrecognized number formatting type: $value');

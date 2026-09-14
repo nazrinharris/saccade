@@ -76,24 +76,26 @@ TeableFieldOptions _decodeOptions(String type, Map<String, dynamic> raw) {
     case 'longText':
     case 'checkbox':
     case 'attachment':
-      return const NoOptions();
+      return const TeableNoOptions();
     case 'number':
       final f = raw['formatting'] as Map<String, dynamic>?;
       final fmt = f?['type'] as String?;
-      return NumberFieldOptions(
-        formattingType: fmt == null ? null : NumberFormattingType.fromWire(fmt),
+      return TeableNumberFieldOptions(
+        formattingType: fmt == null
+            ? null
+            : TeableNumberFormattingType.fromWire(fmt),
         precision: f?['precision'] as int?,
       );
     case 'date':
       final f = raw['formatting'] as Map<String, dynamic>?;
-      return DateFieldOptions(
+      return TeableDateFieldOptions(
         dateFormat: f?['date'] as String?,
         timeFormat: f?['time'] as String?,
         timeZone: f?['timeZone'] as String?,
       );
     case 'singleSelect':
       final choices = (raw['choices'] as List?) ?? const [];
-      return SelectFieldOptions(
+      return TeableSelectFieldOptions(
         choices: [
           for (final c in choices)
             TeableSelectChoice(
@@ -103,14 +105,16 @@ TeableFieldOptions _decodeOptions(String type, Map<String, dynamic> raw) {
         ],
       );
     case 'link':
-      return LinkFieldOptions(
-        relationship: Relationship.fromWire(raw['relationship'] as String),
+      return TeableLinkFieldOptions(
+        relationship: TeableRelationship.fromWire(
+          raw['relationship'] as String,
+        ),
         foreignTableId: raw['foreignTableId'] as String,
         symmetricFieldId: raw['symmetricFieldId'] as String,
       );
     default:
       if (_knownUnsupportedKinds.contains(type)) {
-        return const NoOptions();
+        return const TeableNoOptions();
       }
       _assertSupportedKindHasCase(type);
       throw ArgumentError('Unknown Teable field kind: $type');
